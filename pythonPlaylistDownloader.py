@@ -1,5 +1,3 @@
-# Make sure to install pytube module in this way : C:\> pip install git+https://github.com/baxterisme/pytube
-
 # import pytube
 from pytube import YouTube
 from pytube import Playlist
